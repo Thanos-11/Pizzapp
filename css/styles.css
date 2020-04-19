@@ -1,0 +1,10 @@
+h1 {
+  color: rgb(104, 7, 7);
+  font-style: italic;
+  font-family: DK Lemon Yellow Sun;
+  text-align: center;
+}
+
+h1 .special-color {
+  color: rgb(133, 45, 173);
+}
