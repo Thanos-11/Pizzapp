@@ -1,7 +1,19 @@
+.jumbotron {
+  text-align: center;
+}
+
 h1 {
-  color: rgb(104, 7, 7);
-  font-style: italic;
-  font-family: DK Lemon Yellow Sun;
+  color: rgb(201, 11, 11);
+  font-family: "Gloria Hallelujah", cursive;
+}
+
+li {
+  float: initial;
+  display: inline;
+  margin-right: 20px;
+}
+
+.sectionwelcome {
   text-align: center;
 }
 
