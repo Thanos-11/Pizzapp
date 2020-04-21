@@ -3,7 +3,7 @@
 }
 
 h1 {
-  color: rgb(201, 11, 11);
+  color: rgb(180, 109, 16);
   font-family: "Gloria Hallelujah", cursive;
 }
 
@@ -13,10 +13,35 @@ li {
   margin-right: 20px;
 }
 
+h2 {
+  font-size: 65px;
+  color: rgb(70, 6, 56);
+  font-family: "Gloria Hallelujah", cursive;
+}
+
+.sectionone {
+  background-image: url(../images/piz4.jpg);
+  position: relative;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 .sectionwelcome {
   text-align: center;
 }
 
 h1 .special-color {
-  color: rgb(133, 45, 173);
+  color: rgb(190, 164, 16);
+}
+
+.aboutus {
+  color: rgb(10, 34, 5);
+  padding-top: 7%;
+  padding-bottom: 4%;
+  top: 50vh;
+  text-align: center;
+}
+
+.aboutus h1 {
+  font-size: 50px;
 }
