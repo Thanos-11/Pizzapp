@@ -15,12 +15,12 @@ li {
 
 h2 {
   font-size: 65px;
-  color: rgb(206, 194, 203);
+  color: rgb(180, 109, 16);
   font-family: "Gloria Hallelujah", cursive;
 }
 
 .sectionone {
-  background-image: url(../images/collage.jpg);
+  background-image: url(../images/dark2.jpg);
   position: relative;
   background-size: cover;
   background-repeat: no-repeat;
@@ -31,7 +31,7 @@ h2 {
 }
 
 h1 .special-color {
-  color: rgb(190, 164, 16);
+  color: rgb(180, 164, 16);
 }
 
 .aboutus {
@@ -48,6 +48,9 @@ h1 .special-color {
 
 h4 {
   text-align: center;
+  font-family: "Gloria Hallelujah", cursive;
+  color: rgb(180, 109, 16);
+  font-size: 45px;
 }
 
 .selectiontwo {
