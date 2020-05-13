@@ -3,6 +3,10 @@
 
 #### By Ted Kariuki
 
+## Screenshots
+![Screenshot_1](https://user-images.githubusercontent.com/62003825/81787732-261f0480-950a-11ea-9c8a-6e67635e0cf6.png)
+
+
 ## Usage and setup.
 To practice with PIZZAPP, clone or download this repository (https://github.com/Thanos-11/Pizzapp) to your local machine, open up your text editor and start practice or fork to suggest improvements 
 
